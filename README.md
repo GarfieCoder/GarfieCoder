@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @GarfieCoder
-- 👀 I’m interested in music production, coding, and a bunch of other stuff.
-- 🌱 I’m currently learning to code from scratch.
-- 💞️ I’m looking to collaborate on anything that will help me learn.
+- Just looking to learn more about cool things computers can do
 
 <!---
 GarfieCoder/GarfieCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
